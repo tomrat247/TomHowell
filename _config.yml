@@ -1,5 +1,5 @@
-title: This is my website
-description: The text that goes below
-Theme: jekyll-theme-minimal
-
-https://github.com/tomrat247/dspp_session2/blob/main/Images/deadpoolball.jpg
+title: Shaw Talebi
+logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-cayman
