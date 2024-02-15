@@ -1,11 +1,10 @@
 # Data Scientist - to be updated.
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, GCP, Organic Chemistry, Chemical Engineering, Particle Engineering
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D./M.S. in Advanced Particulate Materials | University of Leeds (_2022_0)							       		
+- MChem. in Chemistry (Industrial)	| University of Leeds (_June 2004_)	 			        		
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
