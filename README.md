@@ -1,6 +1,6 @@
-# Data Scientist - to be updated.
+# Data Scientist
 
-#### Technical Skills: Python, SQL, GCP, Organic Chemistry, Chemical Engineering, Particle Engineering
+#### Technical Skills: Python, SQL, GCP, Organic Chemistry Polymer Chemistry, Chemical Engineering, Particle Engineering
 
 ## Education
 - Ph.D./M.S. in Advanced Particulate Materials | University of Leeds (_2022_0)							       		
@@ -8,8 +8,8 @@
 
 ## Work Experience
 **Data Scientist @ Hub MDP (_December 2022 - Present_)**
-- Improved suite of reporting products for our largest customer through continuous development.
-- Rebuilt database systems on Google Cloud Platform (GCP), providing the basis for greater integration with third party tools, functionality and business intelligence software. 
+- Rebuilt suite of reports for our clients.
+Provided- Data Analysis & Engineering
  
 **Data Analyst @ Hoyer UK (_December 2019 - December 2022_)**
 - Provided reporting and analysis for the UKs largest Fuel Distribution Platform.
@@ -19,13 +19,11 @@
 - Provided and maintained systemic data collection for the Local Education Authority in compliance with Education Data collection norms.
 
 ## Projects
-### Examples
-[Publication]
+### One True View Project
+Rationalisation of data streams for a major client database, with revisions to our views improving deliverables, dashboard & reporting functionality.
 
-Lorem ipsum....
+### Google Cloud Project database rebuild for Hub MDP
+SQL Server database rebuild in a Google Cloud Platform (GCP) environment with accompanying improvements in the mechanism in importing new data.
 
-## Talks & Lectures
-- Examples here
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
+### Data Import Automation Project
+Data Import procedure automation.
