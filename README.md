@@ -26,4 +26,7 @@ Rationalisation of data streams for a major client database, with revisions to o
 SQL Server database rebuild in a Google Cloud Platform (GCP) environment with accompanying improvements in the mechanism in importing new data.
 
 ### Data Import Automation Project
-Data Import procedure automation.
+Rebuilt the procedures for importing daily data for a major client database. This included:
+- Data importation from a Footfall Diary suite from multiple stores using Google Sheets, App Script, Python (utilising SQLAlchemy, Pandas and several processing libraries) and SQL Procedures.
+- Automated data importation from a Daily Telephone Report using Gmail in combination with App Script, Python and SQL procedures.
+- Sales Data from the company performance data from imports from their own performance data, using Python and SQL Procedures.
