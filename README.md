@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, GCP, Organic Chemistry Polymer Chemistry, Chemical Engineering, Particle Engineering
 
 ## Education
-- Ph.D./M.S. in Advanced Particulate Materials | University of Leeds (_2022_0)							       		
+- Ph.D./M.S. in Advanced Particulate Materials | University of Leeds (_January 2022_0)							       		
 - MChem. in Chemistry (Industrial)	| University of Leeds (_June 2004_)	 			        		
 
 ## Work Experience
@@ -17,6 +17,11 @@ Provided- Data Analysis & Engineering
 **Data Officer @ St Bedes & St Josephs Catholic College (_January 2018 - December 2019_)**
 - Conducted data collection, processing, and analysis for the 2nd largest Catholic Diocese School in the UK.
 - Provided and maintained systemic data collection for the Local Education Authority in compliance with Education Data collection norms.
+
+**Project Coordinator @ Unilever (_June 2010 - September 2013_)**
+- Managed a team in small scale production of working prototypes for the Deodorants Division of Unilever, working across major brands like Axe (Lynx), Rexona (Sure) and Dove.
+- Produced samples for Marketing Teams in Europe, America and Russia.
+- Managed several business intelligence systems, including SAP, WMS 
 
 ## Projects
 ### One True View Project
